@@ -1,23 +1,14 @@
 # Gerko Schrieken
 
-**Senior Software Engineer · Amsterdam**
+**Senior Software Engineer / Solution Architect · Amsterdam**
 
-I build and maintain complex software across frontend, backend and cloud architecture, mainly with **.NET, React, TypeScript and Azure**.
+Senior software engineer and solution architect with **20+ years of experience** building and modernising business-critical software.
 
-My recent work explores secure cloud systems, measurable performance and applied AI.
+Hands-on across **.NET/C#, React, TypeScript and Azure**, with a focus on clear boundaries, security, maintainability and practical architecture.
 
 **Open to senior software engineering roles.**
 
-[Portfolio](https://gerko.amsterdam/) · [LinkedIn](https://nl.linkedin.com/in/gerko-schrieken-b1853246) · [Microsoft Learn credentials](https://learn.microsoft.com/nl-nl/users/gerkoschrieken-1928/credentials?tab=credentials-tab)
-
-## Certifications
-
-- **AZ-900** — Microsoft Azure Fundamentals
-- **AZ-204** — Azure Developer Associate — renewed in 2026
-- **AI-900** — Azure AI Fundamentals
-- **AI-102** — Azure AI Engineer Associate
-
-[View verified credentials on Microsoft Learn](https://learn.microsoft.com/nl-nl/users/gerkoschrieken-1928/credentials?tab=credentials-tab)
+[Portfolio](https://gerko.amsterdam/) · [LinkedIn](https://nl.linkedin.com/in/gerko-schrieken-b1853246)
 
 ## Selected projects
 
@@ -38,3 +29,8 @@ It started after I jailbroke my e-reader and wanted a thin client: the client ha
 The current public snapshot builds successfully and its deterministic test suite has **1,120 passing tests**.
 
 [Source code](https://github.com/Gozzy82/book-rpg-public) · [Case study](https://gerko.amsterdam/book-rpg/)
+
+## Certifications
+
+**AZ-900 · AZ-204 · AI-900 · AI-102**  
+AZ-204 renewed in 2026 · [Verified credentials on Microsoft Learn](https://learn.microsoft.com/nl-nl/users/gerkoschrieken-1928/credentials?tab=credentials-tab)
